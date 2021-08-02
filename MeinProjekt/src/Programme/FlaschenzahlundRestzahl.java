@@ -1,4 +1,4 @@
-package KeineAhnung;
+package Programme;
 
 public class FlaschenzahlundRestzahl {
     public static void main(String[] args) {
