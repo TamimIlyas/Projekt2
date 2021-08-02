@@ -21,6 +21,13 @@ public class Rechnenmaschiene {
         else ergebnis = 0.0d;
 
         System.out.println(ergebnis);
+        /*int v1 = 10, v2 = 4;
+        int diff = 0;
+        if (v1 > v2)
+            diff = v1 - v2;
+        System.out.println("v1 ist größer als v2, diff = " + diff);
+         */
+
 
 
 
